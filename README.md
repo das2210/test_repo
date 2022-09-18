@@ -1,2 +1,2 @@
 # Exploration 
-This repo exists for practice purposes as I explore github
+This repo exists for practice purposes as I explore github.
